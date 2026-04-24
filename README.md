@@ -1,7 +1,6 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Status](https://img.shields.io/badge/status-complete-success)
 ![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
-![Repo Size](https://img.shields.io/github/repo-size/SleekVoidAI/creador_estructura_quincenal)
 ![Last Commit](https://img.shields.io/github/last-commit/SleekVoidAI/creador_estructura_quincenal)
 
 CREADOR DE ESTRUCTURA QUINCENAL - PYTHON
